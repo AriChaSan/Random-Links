@@ -21,3 +21,6 @@ github.com/Raid55/slashBot
 media.readthedocs.org/pdf/discordpy/rewrite/discordpy.pdf
 
 Check : https://github.com/AriChaSan/Random-Links/wiki/Links so you can check git codes when development
+
+Use: https://raw.githubusercontent.com/AriChaSan/Random-Links/master/README.md 
+^^ for better view 

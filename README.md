@@ -29,6 +29,10 @@ https://research.googleblog.com/2016/05/announcing-syntaxnet-worlds-most.html
 https://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/
 https://textblob.readthedocs.io/en/dev/
 
+HUBOT:
+https://rocket.chat/docs/administrator-guides/hubot/
+https://github.com/keiffster/program-y/wiki/Pattern-Tags#bot
+https://github.com/RocketChat/hubot-rocketchat
 
 Check : https://github.com/AriChaSan/Random-Links/wiki/Links so you can check git codes when development
 
